@@ -2,7 +2,7 @@
     //local development server connection
     $dsn = 'mysql:host=localhost;dbname=zippyusedautos';
     $username = 'root';
-    $password = 'kait0930';
+    $password = 'pa55word';
 
     // Heroku connection
     /*
